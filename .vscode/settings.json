@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./path-to-your-code"
+    ],
+    "python.pythonPath": "/usr/local/anaconda3/envs/WeatherGuideFlask/bin/python",
+}
